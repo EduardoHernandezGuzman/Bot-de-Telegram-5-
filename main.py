@@ -2,7 +2,7 @@ import telebot
 import random  # Agrega esta línea
 
 # Conexión con nuestro BOT
-TU_TOKEN_AQUÍ = "6555420059:AAFQg0eWhHq0CbJ8NYSj1WQE9_CQpkzneao"
+TU_TOKEN_AQUÍ = ""
 bot = telebot.TeleBot(TU_TOKEN_AQUÍ)
 
 # Lista de caracteres para generar la contraseña

@@ -43,6 +43,11 @@ El bot actualmente cuenta con las siguientes funcionalidades:
 
 - **Comando `/password`**: Genera una constraseña aleatoria.
 
+## El bot en funcionamiento
+
+![bot05](https://github.com/EduardoHernandezGuzman/Bot-de-Telegram-5-/assets/139759297/a40fbafc-c52e-47f4-a133-8dbc4f5054f5)
+
+
 ## Personalización
 
 Si deseas agregar nuevas funcionalidades o personalizar el comportamiento del bot, puedes modificar el archivo `main.py` según tus necesidades. La documentación de TeleBot puede ser útil para comprender cómo extender la funcionalidad del bot.
